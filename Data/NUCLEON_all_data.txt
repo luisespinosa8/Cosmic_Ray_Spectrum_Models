@@ -1,0 +1,11 @@
+# Grebenyuk et al., AdSpR 64, 2546 (2019)
+# Quantity	<Etot> [GeV]	Bin range	Flux (per Etot bin) [# (GeV m2 s sr)-1]	Stat Err (±) Syst Err
+AllParticles	2000	-	3.769000e-5	0.00000343	-
+AllParticles	3000	-	1.360000e-5	0.00000124	-
+AllParticles	5000	-	4.165000e-6	0.000000406	-
+AllParticles	8000	-	1.248000e-6	0.000000114	-
+AllParticles	16000	-	2.394000e-7	0.0000000203	-
+AllParticles	40000	-	2.314000e-8	0.00000000225	-
+AllParticles	100000	-	2.211000e-9	0.000000000346	-
+AllParticles	250000	-	1.245000e-11	0.0000000000118	-
+AllParticles	615000	-	5.401000e-12	0.00000000000496	-
