@@ -1,3 +1,0 @@
-# ASDC Cosmic rays database, created 2024-12-20 14:06:29
-#Filename ; Particle ; Mission ; Reference ; Start Date ; Stop Date ; Notes
-AMS_Na-Al_SI_000.xml ; Na ; AMS-02 ; Phys. Rev. Lett 127 (2021) 021101 ; 2011-05-19T00:00:00 ; 2019-10-30T00:00:00 ;  ; Flux__Rigidity__time_min=2011-05-19 00:00:00.0 ; time_max=2019-10-30 00:00:00.0

@@ -1,3 +1,0 @@
-# ASDC Cosmic rays database, created 2024-12-19 11:41:19
-#Filename ; Particle ; Mission ; Reference ; Start Date ; Stop Date ; Notes
-iron_CALET2021_000.xml ; Fe ; CALET ; Phys. Rev. Lett. 126 (2021) 241101 ; 2016-01-01T00:00:00 ; 2020-05-31T00:00:00 ;  ; time_min=2016-01-01 00:00:00.0 ; time_max=2020-05-31 00:00:00.0

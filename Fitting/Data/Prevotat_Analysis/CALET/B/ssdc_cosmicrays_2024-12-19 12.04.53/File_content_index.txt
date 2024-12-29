@@ -1,3 +1,0 @@
-# ASDC Cosmic rays database, created 2024-12-19 12:04:41
-#Filename ; Particle ; Mission ; Reference ; Start Date ; Stop Date ; Notes
-CALET_2022_B_000.xml ; B ; CALET ; PhysRevLett 129 (2022) 251103 ; 2015-10-13T00:00:00 ; 2022-02-28T23:59:59 ;  ; time_min=2015-10-13 00:00:00.0 ; time_max=2022-02-28 23:59:59.9
